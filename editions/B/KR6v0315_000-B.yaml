@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0315/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南傳大悲經
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0016.xml
+    old_id: B07n0016
+hash: sha256:5aaf2709a4316e6af2e258c25d06f31ed5144c1e102647cd72985d4c3f0391a0

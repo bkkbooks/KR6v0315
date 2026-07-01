@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6v0315/v1
+canonical_location: https://kanripo.org/bkk/KR6v0315/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 南傳大悲經
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0016.xml
+    old_id: B07n0016
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0315_000.yaml, hash: 'sha256:5aaf2709a4316e6af2e258c25d06f31ed5144c1e102647cd72985d4c3f0391a0'}
+  - {seq: 1, filename: KR6v0315_001.yaml, hash: 'sha256:5404f5c469b847fac5d47b3cb1529155cd3bd0d85d46ece3d8d2d05e20e9d04b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0315_001.markers.yaml, hash: 'sha256:82fe1c95e93489392a132b0c6dee26ccdfe8a8c942f2f3cdeda6ac98049bd8c8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0315_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 793
+  label: 南傳大悲經
+  type: juan
+  level: 1
+hash: sha256:14bf69003b9abb1402e9286a146cad615eb51959db0f730f9bd8e8c8297f5cb8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: B
