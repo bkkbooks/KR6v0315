@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0315_000.yaml, hash: 'sha256:5aaf2709a4316e6af2e258c25d06f31ed5144c1e102647cd72985d4c3f0391a0'}
-  - {seq: 1, filename: KR6v0315_001.yaml, hash: 'sha256:5404f5c469b847fac5d47b3cb1529155cd3bd0d85d46ece3d8d2d05e20e9d04b'}
+  - {seq: 1, filename: KR6v0315_001.yaml, hash: 'sha256:a2bf11cf5d77b7bf037cf89e7aa19547df7c476ea64173474fdd58fc6079dfa9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0315_001.markers.yaml, hash: 'sha256:82fe1c95e93489392a132b0c6dee26ccdfe8a8c942f2f3cdeda6ac98049bd8c8'}
+  - {seq: 0, role: markers, filename: assets/KR6v0315_000.markers.yaml, hash: 'sha256:a9b5a3371a87a3bc40734255f52da4a43112070477374505caba2a93c9a48b28'}
+  - {seq: 1, role: markers, filename: assets/KR6v0315_001.markers.yaml, hash: 'sha256:e089f8b6e7504c4d923b65d81e168d4d9bd83c9d822a24ce3681420770ebb81e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -28,9 +29,6 @@ table_of_contents:
   label: 南傳大悲經
   type: juan
   level: 1
-hash: sha256:14bf69003b9abb1402e9286a146cad615eb51959db0f730f9bd8e8c8297f5cb8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:92958c0b095ded96bf589118283196beba1a913cff50a78ed23135c2e0dbd01b
 editions:
 - short: B
